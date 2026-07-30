@@ -1,7 +1,7 @@
 # Automating-User-Role-Management-in-Microsoft-Entra-ID-with-PowerShell
 
 In this lab, I automated identity lifecycle tasks inside my Microsoft Entra ID (Azure AD) tenant using PowerShell 7 and the Microsoft Graph module.
-The automation created users from a CSV file, organized them into security groups, assigned departments, and delegated administrative roles — simulating how IAM engineers use scripting to manage users at scale instead of relying only on the Azure portal.
+The automation created users from a CSV file, organized them into security groups, assigned departments, and delegated administrative roles simulating how IAM engineers use scripting to manage users at scale instead of relying only on the Azure portal.
 
 This lab builds on the secure tenant created previously and focuses on PowerShell-based automation for provisioning and access management.
 
